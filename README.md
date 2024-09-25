@@ -12,7 +12,10 @@ This is Jiuming Zeng's code for MAMN60 AR course of LTH.
 7. Set the world space UI to show the context and set the button in the lower left corner of the screen as the display switch.
 ### AR plane detector
 1. Create an AR application.
-2. Add the 
+2. Add the AR default plane, edit the material and make it a prefab.
+3. Add the AR Plane Manager, AR Raycast Manager and AR Gesture Manager Components to the XR ORigin.
+4. Add the AR Placement Interactable to the project.
+5. Edit the object and set everything.
 
 ## Reference
 ### AR marker detector
