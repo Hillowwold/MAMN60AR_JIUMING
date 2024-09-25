@@ -3,8 +3,13 @@ This is Jiuming Zeng's code for MAMN60 AR course of LTH.
 
 ## How the code is structured.
 ### AR marker detector
-*First, create an AR application.
-
+1. First, create an AR application.
+2. Create a reference image library and add the QR code to the library.
+3. Add the AR Tracked Image Manager Component to the AR Session Origin and write the visual script to detect a marker and place an object.
+4. Add the UI canvas.
+5. Set the button in the upper left corner of the screen to turn left and the button in the upper right corner to turn right.
+6. Write the visual script to support the turning function.
+7. Set the world space UI to show the context and set the button in the lower left corner of the screen as the display switch.
 ### AR plane detector
 
 
